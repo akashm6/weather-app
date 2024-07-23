@@ -12,7 +12,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlPage;
  * variety of weather information given an inputted longitude and latitude. This is a personaly
  * project that I've been working on in order to better understand web APIs, screen-scraping, and
  * the internal components of websites.
- * 
+ *  
  * @author Akash Mohan
  *
  */
